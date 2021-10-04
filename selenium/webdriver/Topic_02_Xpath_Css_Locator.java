@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class Topic_02_Xpath_Css_Locator {
+	
 	// Khai báo biến driver (instance = thể hiện / đại diện)
 	WebDriver driver;
 	// WebDriver là 1 interface includes FirefoxDriver, ChromeDriver, IEDriver,
